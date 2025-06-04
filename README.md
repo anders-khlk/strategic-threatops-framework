@@ -1,2 +1,2 @@
 # infosec-feeds
-![STOF](./assets/stoflogo.jpeg)
+![STOF](./assets/stoflogo.png)
