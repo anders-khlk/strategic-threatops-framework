@@ -24,7 +24,8 @@
 ---
 
 ## 🧭 Overview
-The sun dipped behind the hills, painting the sky in shades of violet and gold. She found the old compass buried beneath the floorboards of the attic. A quiet breeze rustled the pages of the forgotten book left on the bench. The cat stared intently at the swirling leaves outside the window. He didn’t expect the vending machine to dispense two sodas instead of one.
+
+The Strategic ThreatOps Framework provides a structured approach to gathering intelligence requirements from stakeholders, selecting the necessary data, converting it into meaningful intelligence, and delivering it back through a targeted feedback loop.
 
 ---
 
